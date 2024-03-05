@@ -1,6 +1,5 @@
 package com.example.demo.model;
 
-import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -14,21 +13,12 @@ public class Book {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
-
-    @Column(nullable = false)
     private String title;
-
-    @Column(nullable = false)
     private String author;
-
-    @Column(nullable = false)
     private String isbn;
-
-    @Column(nullable = false)
     private BigDecimal price;
-
     private String description;
-    private String coveImage;
+    private String coveIrmage;
 }
 
 
