@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="9.3">
-<file name="C:\Users\user\IdeaProjects\Online-Book-Store\src\main\java\com\example\demo\config\MapperConfig.java">
-</file>
-<file name="C:\Users\user\IdeaProjects\Online-Book-Store\src\main\java\com\example\demo\controller\BookController.java">
-</file>
 <file name="C:\Users\user\IdeaProjects\Online-Book-Store\src\main\java\com\example\demo\DemoApplication.java">
-</file>
-<file name="C:\Users\user\IdeaProjects\Online-Book-Store\src\main\java\com\example\demo\dto\BookDto.java">
-</file>
-<file name="C:\Users\user\IdeaProjects\Online-Book-Store\src\main\java\com\example\demo\dto\CreateBookRequestDto.java">
-</file>
-<file name="C:\Users\user\IdeaProjects\Online-Book-Store\src\main\java\com\example\demo\exception\EntityNotFoundException.java">
-</file>
-<file name="C:\Users\user\IdeaProjects\Online-Book-Store\src\main\java\com\example\demo\mapper\BookMapper.java">
 </file>
 <file name="C:\Users\user\IdeaProjects\Online-Book-Store\src\main\java\com\example\demo\model\Book.java">
 </file>
@@ -23,8 +11,6 @@
 <file name="C:\Users\user\IdeaProjects\Online-Book-Store\src\main\java\com\example\demo\service\BookService.java">
 </file>
 <file name="C:\Users\user\IdeaProjects\Online-Book-Store\src\main\java\com\example\demo\service\BookServiceImpl.java">
-</file>
-<file name="C:\Users\user\IdeaProjects\Online-Book-Store\src\test\java\com\example\demo\DemoApplicationTests.java">
 </file>
 <file name="C:\Users\user\IdeaProjects\Online-Book-Store\src\main\resources\application.properties">
 </file>
